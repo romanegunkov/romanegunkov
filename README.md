@@ -1,4 +1,8 @@
-- Roman Egunkov profile at Stepik https://stepik.org/users/202305896
+### Roman Egunkov's profiles
+
+- LinkedIn https://www.linkedin.com/in/romanegunkov
+- Stepik https://stepik.org/users/202305896
+- CodinGame https://www.codingame.com/profile/7a7da680c219f920950f0567bfe5f71e5624343
 
 <!--
 **romanegunkov/romanegunkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
