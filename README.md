@@ -1,6 +1,7 @@
 ### Roman Egunkov's profiles
 
 - LinkedIn https://www.linkedin.com/in/romanegunkov
+- GitHub https://github.com/romanegunkov
 - Stepik https://stepik.org/users/202305896
 - CodinGame https://www.codingame.com/profile/7a7da680c219f920950f0567bfe5f71e5624343
 
